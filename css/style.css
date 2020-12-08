@@ -101,7 +101,7 @@ header {
 
 /* --- Parallax --- */
 .parallax {
-	background-repeat:no-repeat;
+	background-repeat:repeat;
 	background-size:cover;
 	background-attachment:fixed !important;
 	overflow:hidden;
@@ -469,7 +469,6 @@ img#site-title {
 }
 .icon:before,.icon:after {
 	font-family:'fontawesome';
-	speak:none;
 	font-style:normal;
 	font-weight:normal;
 	font-variant:normal;
