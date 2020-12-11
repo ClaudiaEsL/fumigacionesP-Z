@@ -9,6 +9,7 @@ nav{
     background-color:black;
     justify-content: center;
     margin: 0;
+    box-shadow: 5px 1px 8px 0px black;
 }
 .Navegacion ul {
     width:100%;
